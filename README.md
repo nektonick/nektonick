@@ -1,5 +1,5 @@
 # Who am I?
-Hi, I'm Nick, 19 years old C++ developer.
+Hi, I'm Nick, 20 years old C++ developer.
 After a year of study at *MIREA - RUSSIAN TECHNOLOGICAL UNIVERSITY* on a computer science course, I became disillusioned with a Russian higher school and began looking for a job as a developer.
 
 # My developer experience
