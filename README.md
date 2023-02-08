@@ -4,7 +4,7 @@ After a year of study at *MIREA - RUSSIAN TECHNOLOGICAL UNIVERSITY* on a compute
 
 # My experience
 I started my career in a small company dealing with security systems and panels as Junior C++. 
-Due to the legacy code, we had to use the borland C++11 standard (11 standard was not fully supported) and write a lot of bicycles. Not recommended 👎.
+Due to the legacy code, we had to use the borland C++11 standard (actually, C++11 was not fully supported) and write a lot of bicycles.
 
 However, I got a very valuable experience in production development and experience with preprocessor macros.
 
